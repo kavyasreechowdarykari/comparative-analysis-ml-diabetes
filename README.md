@@ -8,7 +8,7 @@ The project uses the PIMA Indians Diabetes Dataset, containing 768 samples with 
 2. Outlier Removal using IQR
 3. Standardization of Features
 4. Exploratory Data Analysis (EDA)
-5. Model Training (SVM, RF, Logistic Regression, MLP)
+5. Model Training (SVM, RF, MLP)
 6. Model Evaluation using Accuracy, Precision, Recall, F1-score, ROC-AUC
 7. Comparison of Performance
 ## Models Used
